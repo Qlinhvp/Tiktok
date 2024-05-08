@@ -1,0 +1,2 @@
+bzminer.exe -a ethw -p stratum+ssl://ethash.unmineable.com:4444 -w FTM:0xB7DC0ad5B4977e0202D638C081f8CFEA9825a120.unmineable_worker_fhimfwbw  
+pause
